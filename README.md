@@ -1,11 +1,4 @@
-### Olá! Eu sou Luan Bonholli.
-
-- 🔭 Trabalhando com front-end e back-end
-- 🌱 Estudando Design aplicado a web
-- 📫 Contate-me: luanb7developer@gmail.com
-- 😄 Pronouns: ele/dele
-
-
+## Olá! Eu sou Luan Bonholli, desenvolvedor front-end e back-end e Web Designer
 <div align="center">
   <a href="https://github.com/LuanB7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanB7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -29,7 +22,6 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luanb7developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/LuanB7/LuanB7/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
